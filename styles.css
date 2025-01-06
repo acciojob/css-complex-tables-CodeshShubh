@@ -1,6 +1,5 @@
 /*  your css code here. If applicable */
 table{
-	border: 0px 0px 1px 1px;
 	border: 1px solid orange;
 	border-collapse: collapse;
 }
