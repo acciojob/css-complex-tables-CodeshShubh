@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 table{
-	border-bottom: 1px solid black;
-  border-right: 1px solid black;
+	border: 0px 1px 1px 0px;
     border-collapse: collapse;
 }
 
